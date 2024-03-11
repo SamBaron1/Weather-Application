@@ -1,2 +1,2 @@
 # Weather-Application
-Get the weather globally by a single search!
+Get the current weather globally by a single search!
